@@ -1,3 +1,5 @@
+package ro.bogdanpanea.homework.numarpalindrom;
+
 public class NumarPalindromMain {
 
     /**

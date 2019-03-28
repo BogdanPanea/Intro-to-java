@@ -1,3 +1,5 @@
+package ro.bogdanpanea.homework.sumaprimelor100numereintregimaimarica0;
+
 public class CalculSumaMain {
 
     /**

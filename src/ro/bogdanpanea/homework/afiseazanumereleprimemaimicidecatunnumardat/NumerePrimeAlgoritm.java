@@ -1,3 +1,4 @@
+package ro.bogdanpanea.homework.afiseazanumereleprimemaimicidecatunnumardat;
 import java.util.ArrayList;
 
 public class NumerePrimeAlgoritm {

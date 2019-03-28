@@ -1,3 +1,5 @@
+package ro.bogdanpanea.homework.ceamaimarecifradintrunnumar;
+
 public class CeaMaiMareCifraAlgoritm {
 
     private int cifraMaxima;

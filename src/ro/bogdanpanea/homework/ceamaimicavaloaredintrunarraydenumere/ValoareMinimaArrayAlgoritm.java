@@ -1,3 +1,5 @@
+package ro.bogdanpanea.homework.ceamaimicavaloaredintrunarraydenumere;
+
 public class ValoareMinimaArrayAlgoritm {
 
     private double minim;

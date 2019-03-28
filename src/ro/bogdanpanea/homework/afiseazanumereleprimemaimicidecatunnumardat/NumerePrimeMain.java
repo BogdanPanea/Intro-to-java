@@ -1,3 +1,5 @@
+package ro.bogdanpanea.homework.afiseazanumereleprimemaimicidecatunnumardat;
+
 public class NumerePrimeMain {
 
     /**
